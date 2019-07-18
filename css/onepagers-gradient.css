@@ -111,7 +111,7 @@ S3. HEADINGS
 h1 {
   font-weight: bold;
   font-size: 70px;
-  padding-bottom: 25px;
+  padding-bottom: 10px;
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
 }
 
@@ -192,7 +192,7 @@ S5. SECTIONS
   color: #ffffff;
   padding-top: 50px;
   padding-bottom: 20px;
-  min-height:50vh;
+  min-height:30vh;
   background-attachment: fixed !important;
   text-align: center;
 }
